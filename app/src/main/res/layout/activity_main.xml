@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Android!  \n Dr. Kessner was here"
+        android:text="Hello Android!  \n Dr. Kessner was here \n The quick brown fox jumps over the lazy dog."
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
